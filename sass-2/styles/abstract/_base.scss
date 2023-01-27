@@ -1,6 +1,5 @@
-@import "./_variaveis.scss";
+@import './variaveis';
 
-html,
-body {
-  font-family: $fonte;
+html, body {
+    font-family: $fonte;
 }

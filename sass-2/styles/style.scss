@@ -1,3 +1,6 @@
-@import "./abstract/_base.scss";
-@import "./components/_navbar.scss";
-@import "./components/_banner.scss";
+@import './abstract/base';
+@import './componets/navbar';
+@import './componets/banner';
+@import './componets/servicos';
+@import './componets/cupom';
+@import './componets/_footer.sass';
